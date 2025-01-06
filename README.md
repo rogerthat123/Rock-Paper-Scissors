@@ -35,15 +35,9 @@ A classic Rock Paper Scissors game implementation with a clean, modern interface
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone [your-repository-url]
-```
+1. Clone the repository
 
-2. Navigate to the project directory:
-```bash
-cd rock-paper-scissors
-```
+2. Navigate to the project directory
 
 3. Open `index.html` in your web browser to start playing
 
