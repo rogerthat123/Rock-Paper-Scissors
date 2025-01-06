@@ -24,7 +24,7 @@ A classic Rock Paper Scissors game implementation with a clean, modern interface
 ## File Structure
 
 ```
-├── index.html
+├── rock-paper-scissors.html
 ├── style.css
 ├── script.js
 └── images/
@@ -39,7 +39,7 @@ A classic Rock Paper Scissors game implementation with a clean, modern interface
 
 2. Navigate to the project directory
 
-3. Open `index.html` in your web browser to start playing
+3. Open `rock-paper-scissors.html` in your web browser to start playing
 
 Note: Due to the use of local file access, you'll need to run the game through a local server for the best experience. You can use extensions like Live Server in VS Code.
 
